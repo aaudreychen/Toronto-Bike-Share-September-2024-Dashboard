@@ -10,4 +10,6 @@ This Tableau workbook provides visualizations and metrics for city bike usage, h
 
     -Average Trip Duration by User Type: A comparative analysis of ride durations between annual and casual users.
 
+This is also available to view on Tableau Public: https://public.tableau.com/shared/Z36FBZC2G?:display_count=n&:origin=viz_share_link
+
 The data for this workbook is from the City of Toronto Bike Share Toronto Ridership Data: https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
